@@ -1,0 +1,2 @@
+nama database : tesremote
+untuk file sql : (Ada difile tesremote tinggal diimport aja)
